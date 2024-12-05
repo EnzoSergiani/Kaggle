@@ -26,6 +26,8 @@ Liste non-exhaustive de mes projets sur [Kaggle](https://www.kaggle.com/).
 
 ## Projets
 
+- [Titanic - Machine Learning from Disaster](./titanic/titanic.ipynb)
+
 ## Dépendances
 
 Les dépendances des projets sont listées dans le fichier [requirements.txt](requirements.txt) :
