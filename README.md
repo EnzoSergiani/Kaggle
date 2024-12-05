@@ -28,7 +28,7 @@ Liste non-exhaustive de mes projets sur [Kaggle](https://www.kaggle.com/).
 
 ## Dépendances
 
-Les dépendances du projet sont listées dans le fichier [requirements.txt](requirements.txt) :
+Les dépendances des projets sont listées dans le fichier [requirements.txt](requirements.txt) :
 
 - pandas
 - numpy
